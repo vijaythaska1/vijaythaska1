@@ -33,15 +33,22 @@ const vijay = {
 
 | Frontend | Backend | Database | Tools |
 |:--------:|:-------:|:--------:|:-----:|
-| HTML    | Node.js | MongoDB  | GitHub   |
-| CSS     | Express | MySQL    | |
-| JavaScript | | | |
-| React    | | | |
-| Redux    | | | |
-| Next    | | | |
-| tailwind  | | | |
+| HTML     | Node.js | MongoDB  | GitHub |
+| CSS      | Express | MySQL    |        |
+| JavaScript |        |          |        |
+| React    |         |          |        |
+| Redux    |         |          |        |
+| Next.js  |         |          |        |
+| Tailwind CSS |     |          |        |
 
 </div>
+
+---
+
+### 📦 NPM Packages
+
+1. [flexible-form-validation](https://www.npmjs.com/package/flexible-form-validation) - A flexible and customizable form validation library for React applications.
+2. [file-uploader-express](https://www.npmjs.com/package/file-uploader-express) - An Express.js middleware for easy file uploading in Node.js applications.
 
 ---
 
