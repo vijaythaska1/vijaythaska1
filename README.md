@@ -45,9 +45,9 @@ const vijay = {
 
 ### 🚀 Project Launch Pad
 
-1. 🔐 [Flexible Form Validation](https://github.com/vijay-sharma1/flexible-form-validation)
-2. 📁 [File Uploader Packages](https://github.com/vijay-sharma1/file-uploader-packages)
-3. 🎓 [College Web Set](https://github.com/vijay-sharma1/College-Web-Set)
+1. 🔐 [Flexible Form Validation](https://github.com/vijaythaska1/flexible-form-validation.git)
+2. 📁 [File Uploader Packages](https://github.com/vijaythaska1/file-uploader-packages.git)
+3. 🎓 [College Web Set](https://github.com/vijaythaska1/College-Web-Set.git)
 
 ---
 
