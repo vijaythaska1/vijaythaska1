@@ -33,11 +33,13 @@ const vijay = {
 
 | Frontend | Backend | Database | Tools |
 |:--------:|:-------:|:--------:|:-----:|
-| HTML5    | Node.js | MongoDB  | Git   |
-| CSS3     | Express | MySQL    | VS Code |
-| JavaScript | | | Postman |
+| HTML    | Node.js | MongoDB  | GitHub   |
+| CSS     | Express | MySQL    | |
+| JavaScript | | | |
 | React    | | | |
 | Redux    | | | |
+| Next    | | | |
+| tailwind  | | | |
 
 </div>
 
