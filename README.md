@@ -1,5 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Vijay+Sharma" align="center" alt="Typing SVG" />
+# Hey there! I'm Vijay Sharma
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Vijay+Sharma" alt="Typing SVG" />
+</div>
 
 <div align="center">
   
